@@ -24,6 +24,31 @@
       "pong": "Pong!"
     }
   },
+  "it": {
+    "changelog": {
+      "name": "Changelog",
+      "version": "Versione",
+      "title": "Titolo",
+      "changes": "Miglioramenti"
+    },
+    "declinebots": {
+      "title": "Bot respinto",
+      "bot": "Bot",
+      "mod": "Moderatore",
+      "reason": "Motivazionen"
+    },
+    "help": {
+      "title": "Ho dell'aiuto per te, credo",
+      "moderators_desc": "Pinga i moderatoris",
+      "verify_desc": "Non hai voglia di aspettare che il tuo bot venga verificato? Usa questo comando e verificalo all'istante!",
+      "changelog_desc": "Vedi gli ultimi miglioramenti di DBL simulator",
+      "better_bot_title": "Migliora questo bot:",
+      "better_bot_value": "Invia esempi e suggerimenti quì: https://github.com/marcorennmaus/DBL-simulator"
+    },
+    "ping": {
+      "pong": "Pong!"
+    }
+  },
   "tr": {
     "changelog": {
       "name": "Değişiklikler",
